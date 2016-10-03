@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "83FB1DE6AE96B98FACC7284810FD0AF4F1024076",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "83FB1DE6AE96B98FACC7284810FD0AF4F1024076" : 0,
+    "CBDE90E1F7A54873BF0853DFF0B88BE96D26A340" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "718FDD1B-F67C-46AE-AB76-8FF1124B219B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "83FB1DE6AE96B98FACC7284810FD0AF4F1024076" : "Make_Quiz\/",
+    "CBDE90E1F7A54873BF0853DFF0B88BE96D26A340" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MakeQuiz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MakeQuiz\/MakeQuiz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/koke0077\/Make_Quiz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83FB1DE6AE96B98FACC7284810FD0AF4F1024076"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Kimsungjun\/plantview.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBDE90E1F7A54873BF0853DFF0B88BE96D26A340"
+    }
+  ]
+}
